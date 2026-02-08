@@ -1,4 +1,5 @@
 **Superstore Sales KPI Dashboard (2015–2018)**
+(Excel/CSV → Google Sheets → BigQuery → Looker Studio)
 
 **Project Overview**
 This project is an interactive sales KPI dashboard developed using Looker Studio to analyze four years of Superstore sales performance (2015–2018). The dashboard helps monitor business performance through key metrics such as total sales, profit, order volume, regional distribution, and product performance. This project demonstrates my skills in data analysis, KPI design, SQL querying, and data visualization for business decision-making.
