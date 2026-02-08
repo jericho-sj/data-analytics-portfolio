@@ -36,8 +36,8 @@ This project is an interactive sales KPI dashboard developed using Looker Studio
 ---
 
 **Dashboard Preview**
-[Superstore Dashboard]<br>(screenshots/superstore-sales-dashboard-overview.png)
-[Superstore Dashboard w/ Filter]<br>(screenshots/superstore-sales-dashboard-overview-with-filter.png)
+[Superstore Dashboard](screenshots/superstore-sales-dashboard-overview.png),
+[Superstore Dashboard w/ Filter](screenshots/superstore-sales-dashboard-overview-with-filter.png)
 
 ---
 
